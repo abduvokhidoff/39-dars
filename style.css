@@ -990,6 +990,12 @@ footer {
     }
 }
 @media (max-width:616px) and (min-width:390px) {
+    .header_nav{
+        max-width: 90%;
+    }
+    .showcase{
+        max-width: 90%;
+    }
     .showcase_button-1 button{
         width: 40%;
     }
